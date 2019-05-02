@@ -1,0 +1,4 @@
+com\demo\emailApi\EmailApiApplication.class
+com\demo\controller\SendEmailController.class
+com\demo\model\User.class
+com\demo\service\EmailService.class
